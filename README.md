@@ -20,3 +20,5 @@ Just look at this picture
 and compare with any website of today
 
 ![Cap HPI](https://cdn2.hubspot.net/hubfs/145335/blogphotos_Amanda/Cap%20HPI.png)
+
+Now a website visual is not in any way related to AI's, but it is an easy visualization to how fast the computer side of things are changing compared to the other aspects of the world.
