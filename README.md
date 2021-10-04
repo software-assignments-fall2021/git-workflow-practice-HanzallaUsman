@@ -7,4 +7,4 @@ Artificial Intelligence has come a long way and is now entering the world of pro
 Out of the scope of this article, software engineers and other programmers remain confident that their jobs are safe from any AI. According to them, for AI to replace programmers, clients will have to accurately describe what they want...
 
 ### Comment by Umair Shah
-Thank you for sharing this article and your opinion about the topic. However, I believe that AI will definitely have an affect on programmers. We have seen this in many other cases that as technology improves, underqualified workforce decreases. Similarly, AI will replace some of the programmers and will the force the market to have highly qualified programmers.
+Thank you for sharing this article and your opinion about the topic. However, I believe that AI will definitely have an affect on programmers. We have seen this in many other cases that as technology improves, underqualified workforce decreases. In the same way, AI will replace some of the programmers and will the force the market to have highly qualified programmers.
