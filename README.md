@@ -13,7 +13,7 @@ Thank you for sharing this article and your opinion about the topic. However, I 
 
 Thanks for the good read: it is a somewhat popular debate in the recent decades of whether technology and machines will take our jobs as our technological advancement speed are increasingly increasing. As the author says, it is not anytime soon, as in, anytime within 5 to 10 years. But considering the difference in sophistication of algorithms of bleeding edge technology companies currently compared to just 20 years ago, I think it is a well-placed belief that the point where AI reaches the level of human programmers is within our lifetime. 
 
-Just look at this picture
+Just look at this picture of one of the most sophisticated websites of 1990s
 
 ![1990s Apple Website](https://assets.justinmind.com/wp-content/uploads/2018/05/top-10-worst-90s-website-designs-apple-8.png)
 
